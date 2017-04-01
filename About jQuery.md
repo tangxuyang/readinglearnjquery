@@ -1,0 +1,3 @@
+从根本上讲jQuery是一个javascript库。JavaScript能做的事情它都能做，它本身就是javascript。只是作者（Resig哥）为我们提供了让生活更美好的工具而已。
+
+纵观jQuery的成长历史，我们能知道，它刚开始也只是一个简单的工具类库。后来一点点的丰富起来。
